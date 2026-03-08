@@ -46,4 +46,4 @@ Every year, millions of preventable adverse drug events occur because patient me
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/medigraph.git](https://github.com/YOUR_USERNAME/medigraph.git)
+   git clone [https://github.com/Amiyendra/medigraph.git](https://github.com/YOUR_USERNAME/medigraph.git)
