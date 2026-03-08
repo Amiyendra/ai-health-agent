@@ -42,5 +42,16 @@ Every year, millions of preventable adverse drug events occur because patient me
 - Python 3.9+
 - Node.js 18+
 - AWS Credentials with Bedrock Access
+https://github.com/Amiyendra/ai-health-agent.git
+Setup Backend:
+
+Bash
+cd backend && pip install -r requirements.txt
+uvicorn server:app --reload
+Setup Frontend:
+
+Bash
+cd frontend && npm install
+npm run dev
 
 
